@@ -14,3 +14,4 @@ coll = db1['test']
 coll.insert_one(d)
 
 print("Happy")
+
